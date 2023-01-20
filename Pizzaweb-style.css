@@ -1,0 +1,94 @@
+@font-face {
+    font-family: SaoTorpe;
+    src: url(Fonts/SaoTorpes.otf);
+
+}
+
+
+element.style {
+}
+.nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+}
+a {
+    color: #ffffff;
+    text-decoration: none;
+    /* background-color: transparent; */
+}
+
+.mania-logo {
+    margin-left: 50px;
+}
+
+.menu-search {
+    margin-right: 50px;
+}
+
+
+
+element.style {
+}
+.carousel-slides {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 550px;
+}
+
+.Welcome {
+    font-family:SaoTorpe ;
+    color:#ffaa06 ;
+    padding-top: 50px;i
+}
+
+.about-pizza {
+    background-color: red;
+    max-width: 1500px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+h1 {
+    font-family: SaoTorpe;
+    color: #ffaa06;
+}
+
+.about-text {
+    color: white;
+}
+
+.menu-card {
+    margin-top: 30px;
+}
+
+h2 {
+    margin-left: 50px;
+    color: black;
+    margin-top: 40px;
+    font-family: SaoTorpe;
+}
+
+
+element.style {
+}
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}
+.order-now {
+    color: #fff;
+    background-color: #ed1c24;
+    border-color: #fff;
+}
+
+.menu-list{
+    margin: 20px;
+    padding:  0px;
+    justify-content: center;
+}
+
+.menu-cards {
+    margin: 20px;
+}
